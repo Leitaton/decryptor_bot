@@ -1,0 +1,10 @@
+google.com
+safaricom.co.ke
+whatsapp.net
+facebook.com
+m.facebook.com
+instagram.com
+twitter.com
+linkedin.com
+t.me
+api.whatsapp.net
