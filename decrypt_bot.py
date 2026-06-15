@@ -10,7 +10,7 @@ from cryptography.hazmat.primitives import padding
 # =============================================================================
 # CONFIGURATION - UPDATE THIS PART
 # =============================================================================
-BOT_TOKEN = '8593822956:AAEqQUB91Q6aHpYx0_wQ0c530Q4u_PurCIk'
+BOT_TOKEN = ''
 
 # HOW TO SET YOUR KEY:
 # Option 1: If the key in 'ecrypt' is a simple string:
@@ -22,7 +22,7 @@ BOT_TOKEN = '8593822956:AAEqQUB91Q6aHpYx0_wQ0c530Q4u_PurCIk'
 # Option 3: If the key is Base64 (e.g., "SGVsbG8..."):
 # DECRYPTION_KEY = base64.b64decode('SGVsbG8...')
 
-DECRYPTION_KEY = b'1e0db84fb3ed1c750c407529b32693dd'
+DECRYPTION_KEY = b''
 
 # The IV (Initialization Vector).
 # If you didn't find one in JADX, 16 zeros are a common default.
